@@ -1,0 +1,38 @@
+body {
+    background: rgb(200, 217, 240);
+font-size: 22px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 { color: darkblue}
+.picl {
+width: 400px;
+border-radius: 2px;
+}
+.fuf {
+    width: 400px;
+    border-radius: 2px;
+    }
+    .mic {
+    width: 400px;
+    border-radius: 2px;
+    }
+    .zap {
+    width: 400px;
+    border-radius: 2px;
+    }
+    .lop {
+    width: 400px;
+    border-radius: 2px;
+    }
+    .you {
+    width: 400px;
+    border-radius: 2px;
+    }
+    .info p {
+    margin: 0;
+    }
+    haha p {
+    font-weight: 600;
+    font-size: 22;
+    }
