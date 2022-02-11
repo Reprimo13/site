@@ -3,29 +3,17 @@ body {
 font-size: 22px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.cont{
+    max-width: 75%;
+    margin: auto;
+}
 
 h1 { color: darkblue}
-.picl {
-width: 400px;
-border-radius: 2px;
-}
+h1 {
+    margin: auto;
+    }
+
 .fuf {
-    width: 400px;
-    border-radius: 2px;
-    }
-    .mic {
-    width: 400px;
-    border-radius: 2px;
-    }
-    .zap {
-    width: 400px;
-    border-radius: 2px;
-    }
-    .lop {
-    width: 400px;
-    border-radius: 2px;
-    }
-    .you {
     width: 400px;
     border-radius: 2px;
     }
@@ -36,3 +24,6 @@ border-radius: 2px;
     font-weight: 600;
     font-size: 22;
     }
+.fuf:hover{
+    width: 430px;
+    }  
